@@ -4,19 +4,15 @@ Graph and Chart Lite includes the third-party components listed below. They are 
 
 ---
 
-## 1. [JSON PARSER NAME]
+## 1. SimpleJSON
 
-- **Author:** [AUTHOR / COPYRIGHT HOLDER]
-- **Source:** [URL OF THE ORIGINAL PROJECT]
+- **Source:** https://github.com/Bunny83/SimpleJSON/tree/master
 - **License:** MIT
-- **Location in this repository:** `[PATH TO THE PARSER FOLDER OR FILE]`
-
-> Replace the text below with the exact license text and copyright line from the parser's original project. The MIT License requires this notice to be included with copies of the code.
-
+  
 ```
-MIT License
+The MIT License (MIT)
 
-Copyright (c) [YEAR] [COPYRIGHT HOLDER OF THE PARSER]
+Copyright (c) 2012-2022 Markus Göbel (Bunny83)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -41,9 +37,4 @@ SOFTWARE.
 
 ## 2. CC0 materials (`cc0` folder)
 
-The files in the `cc0` folder are dedicated to the public domain under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) dedication. You may use them for any purpose without restriction or attribution.
-
-| File or group | Creator | Original source |
-| --- | --- | --- |
-| [FILE OR GROUP] | [CREATOR] | [URL] |
-| [FILE OR GROUP] | [CREATOR] | [URL] |
+The files in the `cc0` folders are dedicated to the public domain under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
