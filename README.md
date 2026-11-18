@@ -6,6 +6,7 @@ Graph and Chart is a robust, battle-tested data visualization asset for Unity, u
 
 [![Asset Store](https://img.shields.io/badge/Unity%20Asset%20Store-Graph%20and%20Chart-black?logo=unity)](https://assetstore.unity.com/packages/tools/gui/graph-and-chart-data-visualization-78488)
 [![License](https://img.shields.io/badge/license-Graph%20and%20Chart%20Lite%20License-blue)](LICENSE.md)
+[![Unity](https://img.shields.io/badge/Unity-6%2B-black?logo=unity)](#supported-unity-versions)
 [![Asset Store rating](https://img.shields.io/badge/Asset_Store_rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85_102_reviews-brightgreen)](https://assetstore.unity.com/packages/tools/gui/graph-and-chart-data-visualization-78488)
 [![Favorites](https://img.shields.io/badge/Asset_Store_favorites-2028-red?logo=githubsponsors&logoColor=white)](https://assetstore.unity.com/packages/tools/gui/graph-and-chart-data-visualization-78488)
 
@@ -51,6 +52,13 @@ The `#version-1` ending pins the install to the `version-1` branch, so your proj
 Add a chart to a UI canvas and customize it from the Inspector or from code.
 
 [Live demo](http://bitsplash.io/demoLite/index.html) | [Documentation](https://bitsplash.io/graph-and-chart) | [Tutorial video](https://www.youtube.com/watch?v=vrTBQ8Ingno&t=815s)
+
+## Supported Unity Versions
+
+- **Unity 6 and above** (6000.x and later)
+- **Unity 7 with CoreCLR**
+
+This Lite Edition requires Unity 6 or newer.
 
 ---
 
