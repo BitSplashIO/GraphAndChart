@@ -18,38 +18,14 @@ Graph and Chart is a robust, battle-tested data visualization asset for Unity, u
 
 ## Getting Started
 
-### Option 1: Unity Package Manager (recommended)
+1. Clone this repository:
 
-Install straight from this repository's `version-1` branch:
+   ```
+   git clone https://github.com/BitSplashIO/GraphAndChart.git
+   ```
 
-1. In Unity, open **Window > Package Manager**.
-2. Click the **+** button and choose **Install package from git URL...**
-3. Paste the following URL and click **Install**:
-
-```
-https://github.com/BitSplashIO/GraphAndChart.git#version-1
-```
-
-Or add it to your project's `Packages/manifest.json` yourself:
-
-```json
-{
-  "dependencies": {
-    "io.bitsplash.graphandchart.lite": "https://github.com/BitSplashIO/GraphAndChart.git#version-1"
-  }
-}
-```
-
-The `#version-1` ending pins the install to the `version-1` branch, so your project follows that version line. Package Manager needs [Git](https://git-scm.com/) installed on your machine to install from a git URL.
-
-### Option 2: Manual install
-
-1. Download or clone this repository.
 2. Copy the folder into your Unity project's `Assets` directory.
-
-### Then
-
-Add a chart to a UI canvas and customize it from the Inspector or from code.
+3. Add a chart to a UI canvas and customize it from the Inspector or from code.
 
 [Live demo](http://bitsplash.io/demoLite/index.html) | [Documentation](https://bitsplash.io/graph-and-chart) | [Tutorial video](https://www.youtube.com/watch?v=vrTBQ8Ingno&t=815s)
 
