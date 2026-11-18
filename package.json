@@ -1,0 +1,20 @@
+{
+  "name": "com.bitsplash.graphandchart.lite",
+  "displayName": "Graph and Chart Lite",
+  "version": "1.0.0",
+  "description": "Charts and graphs for Unity UI: line graph, bar, pie, and radar charts, with full source code. Lite edition of Graph and Chart.",
+  "keywords": [
+    "chart",
+    "graph",
+    "data-visualization",
+    "ugui",
+    "bar-chart",
+    "pie-chart",
+    "radar-chart"
+  ],
+  "author": {
+    "name": "BitSplash Interactive",
+    "url": "https://bitsplash.io"
+  },
+  "license": "SEE LICENSE IN LICENSE.md"
+}
