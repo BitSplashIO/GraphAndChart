@@ -3,7 +3,6 @@
 **Version 1.0**
 
 Copyright (c) 2026 Amir Ben-Arye (Bitsplash.io)
-
 ---
 
 ## Plain-Language Summary
@@ -18,7 +17,8 @@ Copyright (c) 2026 Amir Ben-Arye (Bitsplash.io)
 - **This applies to products you already released too.** Once you reach the limit, you need the full version to keep selling or distributing any product that contains this Software, even one released earlier. (Copies already in your customers' hands are not affected.)
 - **Sharing the source?** Keep this license file and the copyright notice with it.
 - **No reselling.** You can't resell or re-publish this Software on its own, or inside a competing chart or graph asset or library.
-- **No warranty.** If something breaks, that's on you, not the author.
+- **Third-party parts keep their own licenses.** The included MIT-licensed JSON parser and the CC0 materials are not covered by the revenue condition. See [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
+- **No warranty, no liability.** The Software is provided as-is. If something breaks or causes damage, that's on you, not the author. Don't use it in safety-critical systems.
 
 ### Examples
 
@@ -53,10 +53,24 @@ If the Revenue Condition is not met at the time the Licensee first uses the Soft
 
 Anyone who receives the Software from a Licensee receives it under this same license and must meet the Revenue Condition themselves. You may not sublicense the Software under different terms, and you may not sell or redistribute the Software as a standalone asset or as part of a competing asset or library.
 
-### 6. No Warranty
+### 6. No Warranty and Limitation of Liability
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+**(a) No warranty.** THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NONINFRINGEMENT, ACCURACY, RELIABILITY, OR COMPATIBILITY WITH ANY UNITY VERSION, PLATFORM, OR OTHER SOFTWARE. THE AUTHOR DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE, UNINTERRUPTED, OR FREE OF HARMFUL COMPONENTS, OR THAT ANY DATA DISPLAYED BY THE SOFTWARE WILL BE ACCURATE OR COMPLETE.
+
+**(b) Limitation of liability.** TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE AUTHOR OR ANY CONTRIBUTOR BE LIABLE FOR ANY CLAIM, OR FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF PROFITS, REVENUE, DATA, OR GOODWILL, BUSINESS INTERRUPTION, OR THE COST OF SUBSTITUTE SOFTWARE), HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE, ARISING FROM OR RELATED TO THE SOFTWARE OR ITS USE OR INABILITY TO USE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. WHERE LIABILITY CANNOT BE EXCLUDED, IT IS LIMITED TO THE AMOUNT THE LICENSEE PAID FOR THE SOFTWARE, WHICH FOR THIS FREE LITE VERSION IS US$0.
+
+**(c) No high-risk use.** The Software is not designed or intended for use where failure, malfunction, or inaccurate display could lead to death, personal injury, or severe physical or environmental damage, such as medical devices or diagnosis, aviation, vehicle control, industrial or nuclear control systems, or emergency services. The Licensee uses the Software in any such setting entirely at its own risk and is solely responsible for verifying data accuracy and providing safeguards.
+
+**(d) Licensee responsibility.** The Licensee is solely responsible for its own products and data, for testing the Software in its own environment, and for complying with all laws that apply to its use. The author has no obligation to provide support, updates, bug fixes, or maintenance for this Lite version.
+
+**(e) Indemnity.** To the extent permitted by law, the Licensee will defend and hold harmless the author from third-party claims arising from the Licensee's products or its use of the Software in them.
+
+**(f) Basis of the grant; severability.** The disclaimers and limits in this Section are an essential basis of this license, and the Software is provided free of charge in reliance on them. If any part of this Section is held unenforceable, it applies to the maximum extent permitted and the rest remains in effect. Nothing in this license excludes or limits liability that cannot be excluded or limited under applicable law.
 
 ### 7. Termination
 
 Use of the Software in breach of this license terminates the grant automatically. Licensee may reinstate the grant by coming into compliance (including purchasing a commercial license where required).
+
+### 8. Third-Party Components
+
+The Software includes third-party components that are licensed under their own terms, which are listed in `THIRD-PARTY-NOTICES.md`. Those components are not licensed under this license. The Revenue Condition and the other restrictions of this license do not apply to them, and their own licenses continue to govern them. Nothing in this license limits the rights you have in those components under their own licenses.
