@@ -69,7 +69,7 @@ Want to see it running first? **[Open the live demo.](http://bitsplash.io/demoLi
 - You want **a supported product** with a maintainer you can actually email, not just an issue tracker.
 - You need **real-time or high-volume data**, such as sensor input, waveforms, or live streams (see the Scientific Edition).
 - You want **ready-made designs** and a polished look quickly.
-- You're building something **commercial** and want a vendor with a long track record behind the tool you depend on.
+- You're building something **commercial** and want a publisher with a long track record behind the tool you depend on.
 
 ## Editions
 
