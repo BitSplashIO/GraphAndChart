@@ -64,20 +64,7 @@ Plenty of charting libraries can draw a line. Few have been through years of rea
 
 Want to see it running first? **[Open the live demo.](http://bitsplash.io/demoLite/index.html)**
 
-## Graph and Chart vs. XCharts
-
-[XCharts](https://github.com/XCharts-Team/XCharts) is a well-known free, MIT-licensed charting library for Unity, and a perfectly reasonable place to look. Here is how the two compare on the things that matter once a project gets serious.
-
-| | **Graph and Chart** | **XCharts** |
-| --- | --- | --- |
-| Cost | Lite: free under $200K annual revenue. Full editions: one-time purchase on the Asset Store | Free (MIT) |
-| Support | Direct developer support by email, documentation portal, support forum | GitHub issues and community groups; paid VIP support group |
-| Track record | Maintained since 2017, trusted by thousands of users, highly acclaimed on the Asset Store | Open-source project |
-| High-rate real-time data | **Scientific Edition** is purpose-built for large point counts (100k points, hardware dependent) and streaming sensor or waveform data | General-purpose charting |
-| Upgrade path | Lite, Regular, and Scientific editions, each documented and supported | One library |
-| Licensing for commercial use | Straightforward: free Lite under the revenue limit, or the standard Asset Store license for paid editions | MIT |
-
-### Choose Graph and Chart when
+### Choose Graph and Chart over open-source GitHub projects if
 
 - You want **a supported product** with a maintainer you can actually email, not just an issue tracker.
 - You need **real-time or high-volume data**, such as sensor input, waveforms, or live streams (see the Scientific Edition).
