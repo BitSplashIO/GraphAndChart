@@ -10,7 +10,7 @@ Graph and Chart is a robust, battle-tested data visualization asset for Unity, u
 [![Asset Store rating](https://img.shields.io/badge/Asset_Store_rating-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85_102_reviews-brightgreen)](https://assetstore.unity.com/packages/tools/gui/graph-and-chart-data-visualization-78488)
 [![Favorites](https://img.shields.io/badge/Asset_Store_favorites-2028-red?logo=githubsponsors&logoColor=white)](https://assetstore.unity.com/packages/tools/gui/graph-and-chart-data-visualization-78488)
 
-**[▶ Try the live demo in your browser](http://bitsplash.io/demoLite/index.html)** | **[Documentation](https://bitsplash.io/graph-and-chart)** | **[Tutorial video](https://www.youtube.com/watch?v=vrTBQ8Ingno)**
+**[▶ Try the live demo in your browser](http://bitsplash.io/demoLite/index.html)** | **[Documentation](https://bitsplash.io/graph-and-chart)** | **[Tutorial video](https://youtu.be/vrTBQ8Ingno?si=JpO_FUZzr11bv10M)**
 
 [![Graph and Chart: pie, donut, line, and bar charts](info~/showcase.png)](http://bitsplash.io/demoLite/index.html)
 
